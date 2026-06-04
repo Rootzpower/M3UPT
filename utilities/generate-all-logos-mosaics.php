@@ -1,4 +1,3 @@
-```php
 <?php
 
 /**
@@ -121,4 +120,3 @@ function generateAllLogosMosaics(): void
 }
 
 generateAllLogosMosaics();
-```
