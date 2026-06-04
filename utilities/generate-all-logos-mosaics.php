@@ -10,11 +10,8 @@ $settings = array(
     'countriesFolders' => array(
         __DIR__ . '/../logos',
     ),
-    'countriesIgnorePatterns' => '/(Ω)/',
-    'countriesRootPatterns' => '/.+\/logos/',
     'outputFilename' => '0_all_logos_mosaic.md',
     'cols' => 6,
-    'flags' => array(),
 );
 
 function listAllFiles(string $dir): array
@@ -40,18 +37,11 @@ function organizeContent(array $logos, string $source): array
     $output = array();
 
     foreach ($logos as $file) {
-        $simplifiedPath = str_replace($source . DIRECTORY_SEPARATOR, '', $file);
-        $filename = basename($simplifiedPath);
-        $allowedExtensionsPattern = '/\.(png)/i';
-
-        if (!empty($filename) && preg_match($allowedExtensionsPattern, $filename)) {
-            $key = preg_replace($allowedExtensionsPattern, '', $filename);
+        $filename = basename($file);
+        if (preg_match('/\.png$/i', $filename)) {
+            $key = preg_replace('/\.png$/i', '', $filename);
             $output['logos'][$key] = $filename;
         }
-    }
-
-    foreach ($output as &$countryArray) {
-        ksort($countryArray);
     }
 
     return $output;
@@ -81,7 +71,8 @@ function createMDFiles(array $logos, string $source): void
 
         for ($j = 0; $j < count($matrix); $j++) {
             for ($i = 0; $i < $settings['cols']; $i++) {
-                $table .= "| ![" . (($matrix[$j][$i]) ?? "space") . "] ";
+                $logo = $matrix[$j][$i] ?? "space";
+                $table .= '| <div align="center"><img src="' . $logo . '.png" width="120"></div> ';
                 if ($i === $settings['cols'] - 1) {
                     $table .= "|\n";
                 }
