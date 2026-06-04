@@ -1,5 +1,14 @@
 #!/bin/bash
 
+# Apagar ficheiros antigos no GitHub
+cd /home/runner/work/M3UPT/M3UPT
+
+git pull
+git rm -f EPG/*.xml.gz || true
+git rm -f EPG/*.xz || true
+git commit -m "Limpeza automática de ficheiros antigos" || true
+git push origin main
+
 cd /home/runner/work/M3UPT/M3UPT/iptv-org-epg && npm install
 
 # M3UPT EPG
