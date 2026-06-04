@@ -74,8 +74,10 @@ function createMDFiles(array $logos, string $source): void
                 $i++;
             }
 
-            // All extensions go to lists
-            $lists[$ext][] = "[$fileKey]:$file";
+            // Only non-PNG files go to lists
+            if ($ext !== 'png') {
+                $lists[$ext][] = "[$fileKey]:$file";
+            }
         }
 
         // Build mosaic table (PNG only)
@@ -100,13 +102,15 @@ function createMDFiles(array $logos, string $source): void
 
         $outputContent .= "$table\n\n";
 
-        // Add extension sections
-        foreach ($lists as $ext => $entries) {
-            $outputContent .= "## " . strtoupper($ext) . "\n";
-            foreach ($entries as $entry) {
-                $outputContent .= $entry . "\n";
+        // Add extension sections (ONLY if non-PNG exist)
+        if (!empty($lists)) {
+            foreach ($lists as $ext => $entries) {
+                $outputContent .= "## " . strtoupper($ext) . "\n";
+                foreach ($entries as $entry) {
+                    $outputContent .= $entry . "\n";
+                }
+                $outputContent .= "\n";
             }
-            $outputContent .= "\n";
         }
 
         file_put_contents($outputFile, $outputContent);
