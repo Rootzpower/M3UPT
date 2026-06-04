@@ -14,57 +14,57 @@
 | <div align="center"><img src="CBS-Reality.png" width="120"></div> | <div align="center"><img src="CBSN.png" width="120"></div> | <div align="center"><img src="CDO.png" width="120"></div> | <div align="center"><img src="CGTN-Documentary.png" width="120"></div> | <div align="center"><img src="CGTN-Español.png" width="120"></div> | <div align="center"><img src="CGTN-Français.png" width="120"></div> |
 | <div align="center"><img src="CGTN.png" width="120"></div> | <div align="center"><img src="CMC.png" width="120"></div> | <div align="center"><img src="CMTV.png" width="120"></div> | <div align="center"><img src="CNN-Brasil.png" width="120"></div> | <div align="center"><img src="CNN-Headlines.png" width="120"></div> | <div align="center"><img src="CNN-Portugal.png" width="120"></div> |
 | <div align="center"><img src="CNN.png" width="120"></div> | <div align="center"><img src="Cachipum-TV.png" width="120"></div> | <div align="center"><img src="CamoesTV.png" width="120"></div> | <div align="center"><img src="Canal-11.png" width="120"></div> | <div align="center"><img src="Canal-180.png" width="120"></div> | <div align="center"><img src="Canal-Extremadura.png" width="120"></div> |
-| <div align="center"><img src="Canal-Futura.png" width="120"></div> | <div align="center"><img src="Canal-Q.png" width="120"></div> | <div align="center"><img src="Canal-de-História.png" width="120"></div> | <div align="center"><img src="Canal_S+.png" width="120"></div> | <div align="center"><img src="Cartoon-Network.png" width="120"></div> | <div align="center"><img src="Cartoonito.png" width="120"></div> |
-| <div align="center"><img src="Cinemonde.png" width="120"></div> | <div align="center"><img src="Cinemundo.png" width="120"></div> | <div align="center"><img src="Clubbing-TV.png" width="120"></div> | <div align="center"><img src="Colosal-TV.png" width="120"></div> | <div align="center"><img src="Comercial-Kids.png" width="120"></div> | <div align="center"><img src="Cubavisión-Internacional.png" width="120"></div> |
-| <div align="center"><img src="D24.png" width="120"></div> | <div align="center"><img src="D5-TV.png" width="120"></div> | <div align="center"><img src="D5Music.png" width="120"></div> | <div align="center"><img src="DAZN_1.png" width="120"></div> | <div align="center"><img src="DAZN_2.png" width="120"></div> | <div align="center"><img src="DAZN_3.png" width="120"></div> |
-| <div align="center"><img src="DAZN_4.png" width="120"></div> | <div align="center"><img src="DAZN_5.png" width="120"></div> | <div align="center"><img src="DAZN_6.png" width="120"></div> | <div align="center"><img src="Darkflix.png" width="120"></div> | <div align="center"><img src="Das-Erste.png" width="120"></div> | <div align="center"><img src="DeeJay-TV.png" width="120"></div> |
-| <div align="center"><img src="Deluxe-Music-TV.png" width="120"></div> | <div align="center"><img src="Deutsche-Welle.png" width="120"></div> | <div align="center"><img src="Discovery-Channel.png" width="120"></div> | <div align="center"><img src="Discovery-Showcase.png" width="120"></div> | <div align="center"><img src="Disney-Channel.png" width="120"></div> | <div align="center"><img src="Disney-Junior.png" width="120"></div> |
-| <div align="center"><img src="Dog-TV.png" width="120"></div> | <div align="center"><img src="Dubai-One.png" width="120"></div> | <div align="center"><img src="Dubai-Racing.png" width="120"></div> | <div align="center"><img src="Dubai-Sports-2.png" width="120"></div> | <div align="center"><img src="Dubai-Sports-3.png" width="120"></div> | <div align="center"><img src="Dubai-Sports.png" width="120"></div> |
-| <div align="center"><img src="EITB-EUS.png" width="120"></div> | <div align="center"><img src="ENTD180.png" width="120"></div> | <div align="center"><img src="ETB-1.png" width="120"></div> | <div align="center"><img src="ETB-2.png" width="120"></div> | <div align="center"><img src="Eixo-do-Mal.png" width="120"></div> | <div align="center"><img src="Eleven-Sports-1.png" width="120"></div> |
-| <div align="center"><img src="Eleven-Sports-2.png" width="120"></div> | <div align="center"><img src="Eleven-Sports-3.png" width="120"></div> | <div align="center"><img src="Eleven-Sports-4.png" width="120"></div> | <div align="center"><img src="Eleven-Sports-5.png" width="120"></div> | <div align="center"><img src="Eleven-Sports-6.png" width="120"></div> | <div align="center"><img src="Euronews.png" width="120"></div> |
-| <div align="center"><img src="Eurosport-News.png" width="120"></div> | <div align="center"><img src="Eurosport.png" width="120"></div> | <div align="center"><img src="Eurosport2.png" width="120"></div> | <div align="center"><img src="FM-Italia-TV.png" width="120"></div> | <div align="center"><img src="Fama-TV.png" width="120"></div> | <div align="center"><img src="Fashion-TV.png" width="120"></div> |
-| <div align="center"><img src="Fight_Sports.png" width="120"></div> | <div align="center"><img src="Fox-Comedy.png" width="120"></div> | <div align="center"><img src="Fox-Crime.png" width="120"></div> | <div align="center"><img src="Fox-Life.png" width="120"></div> | <div align="center"><img src="Fox-Movies.png" width="120"></div> | <div align="center"><img src="Fox.png" width="120"></div> |
-| <div align="center"><img src="France-24.png" width="120"></div> | <div align="center"><img src="Free-Speech-TV.png" width="120"></div> | <div align="center"><img src="Fuel-TV.png" width="120"></div> | <div align="center"><img src="FunBox_UHD.png" width="120"></div> | <div align="center"><img src="GONG-Max.png" width="120"></div> | <div align="center"><img src="GONG.png" width="120"></div> |
-| <div align="center"><img src="Gabruu-TV.png" width="120"></div> | <div align="center"><img src="Gametoon.png" width="120"></div> | <div align="center"><img src="Globo.png" width="120"></div> | <div align="center"><img src="GolTV.png" width="120"></div> | <div align="center"><img src="Grand-Lille-TV.png" width="120"></div> | <div align="center"><img src="Grand-Littoral-TV.png" width="120"></div> |
-| <div align="center"><img src="Gulli.png" width="120"></div> | <div align="center"><img src="HD-Fashion-&-Lifestyle-TV.png" width="120"></div> | <div align="center"><img src="HispanTV.png" width="120"></div> | <div align="center"><img src="Hit-TV.png" width="120"></div> | <div align="center"><img src="Hollywood.png" width="120"></div> | <div align="center"><img src="ICI-Television.png" width="120"></div> |
-| <div align="center"><img src="Indie-Wave.png" width="120"></div> | <div align="center"><img src="Jazz_Premium.png" width="120"></div> | <div align="center"><img src="JimJam.png" width="120"></div> | <div align="center"><img src="KBS-World.png" width="120"></div> | <div align="center"><img src="KBS_WORLD.png" width="120"></div> | <div align="center"><img src="Kim-Iversen.png" width="120"></div> |
-| <div align="center"><img src="Kombat-Sport.png" width="120"></div> | <div align="center"><img src="KuriakosKids_curvas.png" width="120"></div> | <div align="center"><img src="La1.png" width="120"></div> | <div align="center"><img src="La2.png" width="120"></div> | <div align="center"><img src="LiveNOW_from_Fox.png" width="120"></div> | <div align="center"><img src="Localvisão-TV.png" width="120"></div> |
-| <div align="center"><img src="Locomotion.png" width="120"></div> | <div align="center"><img src="Logo-R%C3%A1dio-Hertz-2015-03-261-300x117.png" width="120"></div> | <div align="center"><img src="Logo-RUC-2020_assinaturas_Prancheta-1-copia.png" width="120"></div> | <div align="center"><img src="Logo_cine.png" width="120"></div> | <div align="center"><img src="Love-Nature-TV.png" width="120"></div> | <div align="center"><img src="Luxe-TV.png" width="120"></div> |
-| <div align="center"><img src="MCM-Pop-1.png" width="120"></div> | <div align="center"><img src="MCM-Pop.png" width="120"></div> | <div align="center"><img src="MCM-Top-1.png" width="120"></div> | <div align="center"><img src="MCM-Top.png" width="120"></div> | <div align="center"><img src="MCS TV.png" width="120"></div> | <div align="center"><img src="MTV-Base.png" width="120"></div> |
-| <div align="center"><img src="MTV-Classic.png" width="120"></div> | <div align="center"><img src="MTV-Dance.png" width="120"></div> | <div align="center"><img src="MTV-Hits.png" width="120"></div> | <div align="center"><img src="MTV-Rocks.png" width="120"></div> | <div align="center"><img src="MTV.png" width="120"></div> | <div align="center"><img src="MTV_00s.png" width="120"></div> |
-| <div align="center"><img src="MYvhCGImba3MPCwmRu2pZgGkFhy2L6tkTLsSO3LN.png" width="120"></div> | <div align="center"><img src="Meo-Beachcam.png" width="120"></div> | <div align="center"><img src="Mezzo.png" width="120"></div> | <div align="center"><img src="Motorvision-TV.png" width="120"></div> | <div align="center"><img src="MovieSphere.png" width="120"></div> | <div align="center"><img src="Music-Box.png" width="120"></div> |
-| <div align="center"><img src="My-Cuisine.png" width="120"></div> | <div align="center"><img src="My-Time-Movie-Network.png" width="120"></div> | <div align="center"><img src="MyComedy.png" width="120"></div> | <div align="center"><img src="Más-Chic.png" width="120"></div> | <div align="center"><img src="NASA.png" width="120"></div> | <div align="center"><img src="NBC-News-Now.png" width="120"></div> |
-| <div align="center"><img src="NHK-World.png" width="120"></div> | <div align="center"><img src="NOS-Studios.png" width="120"></div> | <div align="center"><img src="NRG-91-TV.png" width="120"></div> | <div align="center"><img src="NRJ-Hits-TV.png" width="120"></div> | <div align="center"><img src="National-Geographic-Wild.png" width="120"></div> | <div align="center"><img src="National-Geographic.png" width="120"></div> |
+| <div align="center"><img src="Canal-Futura.png" width="120"></div> | <div align="center"><img src="Canal-Q.png" width="120"></div> | <div align="center"><img src="Canal-de-História.png" width="120"></div> | <div align="center"><img src="Cartoon-Network.png" width="120"></div> | <div align="center"><img src="Cartoonito.png" width="120"></div> | <div align="center"><img src="Cinemonde.png" width="120"></div> |
+| <div align="center"><img src="Cinemundo.png" width="120"></div> | <div align="center"><img src="Clubbing-TV.png" width="120"></div> | <div align="center"><img src="Colosal-TV.png" width="120"></div> | <div align="center"><img src="Comercial-Kids.png" width="120"></div> | <div align="center"><img src="Cubavisión-Internacional.png" width="120"></div> | <div align="center"><img src="D24.png" width="120"></div> |
+| <div align="center"><img src="D5-TV.png" width="120"></div> | <div align="center"><img src="D5Music.png" width="120"></div> | <div align="center"><img src="DAZN_1.png" width="120"></div> | <div align="center"><img src="DAZN_2.png" width="120"></div> | <div align="center"><img src="DAZN_3.png" width="120"></div> | <div align="center"><img src="DAZN_4.png" width="120"></div> |
+| <div align="center"><img src="DAZN_5.png" width="120"></div> | <div align="center"><img src="DAZN_6.png" width="120"></div> | <div align="center"><img src="Darkflix.png" width="120"></div> | <div align="center"><img src="Das-Erste.png" width="120"></div> | <div align="center"><img src="DeeJay-TV.png" width="120"></div> | <div align="center"><img src="Deluxe-Music-TV.png" width="120"></div> |
+| <div align="center"><img src="Deutsche-Welle.png" width="120"></div> | <div align="center"><img src="Discovery-Channel.png" width="120"></div> | <div align="center"><img src="Discovery-Showcase.png" width="120"></div> | <div align="center"><img src="Disney-Channel.png" width="120"></div> | <div align="center"><img src="Disney-Junior.png" width="120"></div> | <div align="center"><img src="Dog-TV.png" width="120"></div> |
+| <div align="center"><img src="Dubai-One.png" width="120"></div> | <div align="center"><img src="Dubai-Racing.png" width="120"></div> | <div align="center"><img src="Dubai-Sports-2.png" width="120"></div> | <div align="center"><img src="Dubai-Sports-3.png" width="120"></div> | <div align="center"><img src="Dubai-Sports.png" width="120"></div> | <div align="center"><img src="EITB-EUS.png" width="120"></div> |
+| <div align="center"><img src="ENTD180.png" width="120"></div> | <div align="center"><img src="ETB-1.png" width="120"></div> | <div align="center"><img src="ETB-2.png" width="120"></div> | <div align="center"><img src="Eixo-do-Mal.png" width="120"></div> | <div align="center"><img src="Eleven-Sports-1.png" width="120"></div> | <div align="center"><img src="Eleven-Sports-2.png" width="120"></div> |
+| <div align="center"><img src="Eleven-Sports-3.png" width="120"></div> | <div align="center"><img src="Eleven-Sports-4.png" width="120"></div> | <div align="center"><img src="Eleven-Sports-5.png" width="120"></div> | <div align="center"><img src="Eleven-Sports-6.png" width="120"></div> | <div align="center"><img src="Euronews.png" width="120"></div> | <div align="center"><img src="Eurosport-News.png" width="120"></div> |
+| <div align="center"><img src="Eurosport.png" width="120"></div> | <div align="center"><img src="Eurosport2.png" width="120"></div> | <div align="center"><img src="FM-Italia-TV.png" width="120"></div> | <div align="center"><img src="Fama-TV.png" width="120"></div> | <div align="center"><img src="Fashion-TV.png" width="120"></div> | <div align="center"><img src="Fight_Sports.png" width="120"></div> |
+| <div align="center"><img src="Fox-Comedy.png" width="120"></div> | <div align="center"><img src="Fox-Crime.png" width="120"></div> | <div align="center"><img src="Fox-Life.png" width="120"></div> | <div align="center"><img src="Fox-Movies.png" width="120"></div> | <div align="center"><img src="Fox.png" width="120"></div> | <div align="center"><img src="France-24.png" width="120"></div> |
+| <div align="center"><img src="Fuel-TV.png" width="120"></div> | <div align="center"><img src="FunBox_UHD.png" width="120"></div> | <div align="center"><img src="GONG-Max.png" width="120"></div> | <div align="center"><img src="GONG.png" width="120"></div> | <div align="center"><img src="Gabruu-TV.png" width="120"></div> | <div align="center"><img src="Gametoon.png" width="120"></div> |
+| <div align="center"><img src="Globo.png" width="120"></div> | <div align="center"><img src="GolTV.png" width="120"></div> | <div align="center"><img src="Grand-Lille-TV.png" width="120"></div> | <div align="center"><img src="Grand-Littoral-TV.png" width="120"></div> | <div align="center"><img src="Gulli.png" width="120"></div> | <div align="center"><img src="HD-Fashion-&-Lifestyle-TV.png" width="120"></div> |
+| <div align="center"><img src="HispanTV.png" width="120"></div> | <div align="center"><img src="Hit-TV.png" width="120"></div> | <div align="center"><img src="Hollywood.png" width="120"></div> | <div align="center"><img src="ICI-Television.png" width="120"></div> | <div align="center"><img src="Indie-Wave.png" width="120"></div> | <div align="center"><img src="Jazz_Premium.png" width="120"></div> |
+| <div align="center"><img src="JimJam.png" width="120"></div> | <div align="center"><img src="KBS-World.png" width="120"></div> | <div align="center"><img src="KBS_WORLD.png" width="120"></div> | <div align="center"><img src="Kim-Iversen.png" width="120"></div> | <div align="center"><img src="Kombat-Sport.png" width="120"></div> | <div align="center"><img src="KuriakosKids_curvas.png" width="120"></div> |
+| <div align="center"><img src="La1.png" width="120"></div> | <div align="center"><img src="La2.png" width="120"></div> | <div align="center"><img src="Localvisão-TV.png" width="120"></div> | <div align="center"><img src="Locomotion.png" width="120"></div> | <div align="center"><img src="Logo-R%C3%A1dio-Hertz-2015-03-261-300x117.png" width="120"></div> | <div align="center"><img src="Logo-RUC-2020_assinaturas_Prancheta-1-copia.png" width="120"></div> |
+| <div align="center"><img src="Logo_cine.png" width="120"></div> | <div align="center"><img src="Love-Nature-TV.png" width="120"></div> | <div align="center"><img src="Luxe-TV.png" width="120"></div> | <div align="center"><img src="MCM-Pop.png" width="120"></div> | <div align="center"><img src="MCM-Top.png" width="120"></div> | <div align="center"><img src="MCS TV.png" width="120"></div> |
+| <div align="center"><img src="MTV-Base.png" width="120"></div> | <div align="center"><img src="MTV-Classic.png" width="120"></div> | <div align="center"><img src="MTV-Dance.png" width="120"></div> | <div align="center"><img src="MTV-Hits.png" width="120"></div> | <div align="center"><img src="MTV-Rocks.png" width="120"></div> | <div align="center"><img src="MTV.png" width="120"></div> |
+| <div align="center"><img src="MTV_00s.png" width="120"></div> | <div align="center"><img src="MYvhCGImba3MPCwmRu2pZgGkFhy2L6tkTLsSO3LN.png" width="120"></div> | <div align="center"><img src="Meo-Beachcam.png" width="120"></div> | <div align="center"><img src="Mezzo.png" width="120"></div> | <div align="center"><img src="Motorvision-TV.png" width="120"></div> | <div align="center"><img src="MovieSphere.png" width="120"></div> |
+| <div align="center"><img src="Music-Box.png" width="120"></div> | <div align="center"><img src="My-Cuisine.png" width="120"></div> | <div align="center"><img src="My-Time-Movie-Network.png" width="120"></div> | <div align="center"><img src="MyComedy.png" width="120"></div> | <div align="center"><img src="Más-Chic.png" width="120"></div> | <div align="center"><img src="NASA.png" width="120"></div> |
+| <div align="center"><img src="NBC-News-Now.png" width="120"></div> | <div align="center"><img src="NOS-Studios.png" width="120"></div> | <div align="center"><img src="NRG-91-TV.png" width="120"></div> | <div align="center"><img src="NRJ-Hits-TV.png" width="120"></div> | <div align="center"><img src="National-Geographic-Wild.png" width="120"></div> | <div align="center"><img src="National-Geographic.png" width="120"></div> |
 | <div align="center"><img src="Nick-Clássico.png" width="120"></div> | <div align="center"><img src="Nick-Junior.png" width="120"></div> | <div align="center"><img src="Nickelodeon.png" width="120"></div> | <div align="center"><img src="Nove3Cinco-Menu-Logo.png" width="120"></div> | <div align="center"><img src="O-outro-lado.png" width="120"></div> | <div align="center"><img src="Odisseia.png" width="120"></div> |
 | <div align="center"><img src="On-FM.png" width="120"></div> | <div align="center"><img src="PBS_America_logo.png" width="120"></div> | <div align="center"><img src="PCNELID.png" width="120"></div> | <div align="center"><img src="PFC.png" width="120"></div> | <div align="center"><img src="Panda.png" width="120"></div> | <div align="center"><img src="Porta-dos-Fundos.png" width="120"></div> |
-| <div align="center"><img src="Porto-Canal.png" width="120"></div> | <div align="center"><img src="Premiere.png" width="120"></div> | <div align="center"><img src="Press-TV.png" width="120"></div> | <div align="center"><img src="RMTV.png" width="120"></div> | <div align="center"><img src="RT-America.png" width="120"></div> | <div align="center"><img src="RT-Documentary.png" width="120"></div> |
-| <div align="center"><img src="RT-Español.png" width="120"></div> | <div align="center"><img src="RT-France.png" width="120"></div> | <div align="center"><img src="RT-News.png" width="120"></div> | <div align="center"><img src="RT-UK.png" width="120"></div> | <div align="center"><img src="RTP-Açores.png" width="120"></div> | <div align="center"><img src="RTP-Internacional.png" width="120"></div> |
-| <div align="center"><img src="RTP-Madeira.png" width="120"></div> | <div align="center"><img src="RTP-Memória.png" width="120"></div> | <div align="center"><img src="RTP-África.png" width="120"></div> | <div align="center"><img src="RTP1.png" width="120"></div> | <div align="center"><img src="RTP2.png" width="120"></div> | <div align="center"><img src="RTP3.png" width="120"></div> |
-| <div align="center"><img src="Radio-Cascais.png" width="120"></div> | <div align="center"><img src="Rai-Movie.png" width="120"></div> | <div align="center"><img src="Rai-News-24.png" width="120"></div> | <div align="center"><img src="Rai-Premium.png" width="120"></div> | <div align="center"><img src="Rakuten_Viki.png" width="120"></div> | <div align="center"><img src="Record-News.png" width="120"></div> |
-| <div align="center"><img src="Record-TV.png" width="120"></div> | <div align="center"><img src="Red-Bull-TV.png" width="120"></div> | <div align="center"><img src="Rede-Atividade.png" width="120"></div> | <div align="center"><img src="Rede-New.png" width="120"></div> | <div align="center"><img src="RedeTV.png" width="120"></div> | <div align="center"><img src="Retro-TV.png" width="120"></div> |
-| <div align="center"><img src="Reuters-TV.png" width="120"></div> | <div align="center"><img src="Rádio-Sines.png" width="120"></div> | <div align="center"><img src="SBT.png" width="120"></div> | <div align="center"><img src="SIC-Alta-Definição.png" width="120"></div> | <div align="center"><img src="SIC-Caras.png" width="120"></div> | <div align="center"><img src="SIC-Internacional.png" width="120"></div> |
-| <div align="center"><img src="SIC-K.png" width="120"></div> | <div align="center"><img src="SIC-Mulher.png" width="120"></div> | <div align="center"><img src="SIC-Notícias.png" width="120"></div> | <div align="center"><img src="SIC-Novelas.png" width="120"></div> | <div align="center"><img src="SIC-Radical.png" width="120"></div> | <div align="center"><img src="SIC-Replay.png" width="120"></div> |
-| <div align="center"><img src="SIC.png" width="120"></div> | <div align="center"><img src="SM.png" width="120"></div> | <div align="center"><img src="STAR-Channel-logo.png" width="120"></div> | <div align="center"><img src="STAR-Comedy-logo.png" width="120"></div> | <div align="center"><img src="STAR-Crime-logo.png" width="120"></div> | <div align="center"><img src="STAR-Life-logo.png" width="120"></div> |
-| <div align="center"><img src="STAR-Movies-logo.png" width="120"></div> | <div align="center"><img src="Sabrang-TV.png" width="120"></div> | <div align="center"><img src="Sexy-KPOP-TV.png" width="120"></div> | <div align="center"><img src="Sky-News.png" width="120"></div> | <div align="center"><img src="Sky-TG24.png" width="120"></div> | <div align="center"><img src="Sport-Digital.png" width="120"></div> |
-| <div align="center"><img src="Sport-TV+.png" width="120"></div> | <div align="center"><img src="Sport-TV-1.png" width="120"></div> | <div align="center"><img src="Sport-TV-2.png" width="120"></div> | <div align="center"><img src="Sport-TV-3.png" width="120"></div> | <div align="center"><img src="Sport-TV-4.png" width="120"></div> | <div align="center"><img src="Sport-TV-5.png" width="120"></div> |
-| <div align="center"><img src="Sport-TV-6.png" width="120"></div> | <div align="center"><img src="Sport-TV-7.png" width="120"></div> | <div align="center"><img src="Sport-TV-NBA.png" width="120"></div> | <div align="center"><img src="Sporting-TV.png" width="120"></div> | <div align="center"><img src="SyFy.png" width="120"></div> | <div align="center"><img src="TCV.png" width="120"></div> |
-| <div align="center"><img src="TDM-Teledifusão_de_Macau.png" width="120"></div> | <div align="center"><img src="TLC.png" width="120"></div> | <div align="center"><img src="TPA.png" width="120"></div> | <div align="center"><img src="TRACE-Africa.png" width="120"></div> | <div align="center"><img src="TRACE-Ayiti.png" width="120"></div> | <div align="center"><img src="TRACE-Kitoko.png" width="120"></div> |
-| <div align="center"><img src="TRACE-Latina.png" width="120"></div> | <div align="center"><img src="TRACE-Mziki.png" width="120"></div> | <div align="center"><img src="TRACE-Naija.png" width="120"></div> | <div align="center"><img src="TRACE-Toca.png" width="120"></div> | <div align="center"><img src="TRACE-Tropical.png" width="120"></div> | <div align="center"><img src="TRACE-Urban.png" width="120"></div> |
-| <div align="center"><img src="TRT_World.png" width="120"></div> | <div align="center"><img src="TV-ALESP.png" width="120"></div> | <div align="center"><img src="TV-Escola.png" width="120"></div> | <div align="center"><img src="TV-Rio-Preto.png" width="120"></div> | <div align="center"><img src="TV-Séries.png" width="120"></div> | <div align="center"><img src="TV-camara.png" width="120"></div> |
-| <div align="center"><img src="TV5-Monde-Info.png" width="120"></div> | <div align="center"><img src="TVCine_ACTION.png" width="120"></div> | <div align="center"><img src="TVCine_EDITION.png" width="120"></div> | <div align="center"><img src="TVCine_EMOTION.png" width="120"></div> | <div align="center"><img src="TVCine_TOP.png" width="120"></div> | <div align="center"><img src="TVE-24h.png" width="120"></div> |
-| <div align="center"><img src="TVE.png" width="120"></div> | <div align="center"><img src="TVG.png" width="120"></div> | <div align="center"><img src="TVI-Ficção.png" width="120"></div> | <div align="center"><img src="TVI-Internacional.png" width="120"></div> | <div align="center"><img src="TVI-Reality.png" width="120"></div> | <div align="center"><img src="TVI.png" width="120"></div> |
-| <div align="center"><img src="TVI24.png" width="120"></div> | <div align="center"><img src="TVI_África.png" width="120"></div> | <div align="center"><img src="TVM.png" width="120"></div> | <div align="center"><img src="TVMI.png" width="120"></div> | <div align="center"><img src="Telesur.png" width="120"></div> | <div align="center"><img src="The-Jimmy-Dore-Show.png" width="120"></div> |
-| <div align="center"><img src="The_Duran.png" width="120"></div> | <div align="center"><img src="Top-TV.png" width="120"></div> | <div align="center"><img src="Trace-Latina.png" width="120"></div> | <div align="center"><img src="Trace_Brasil.png" width="120"></div> | <div align="center"><img src="Travel-Channel.png" width="120"></div> | <div align="center"><img src="VH1-Classic.png" width="120"></div> |
-| <div align="center"><img src="VH1.png" width="120"></div> | <div align="center"><img src="WGN-9.png" width="120"></div> | <div align="center"><img src="WWSB_ABC_7.png" width="120"></div> | <div align="center"><img src="World-Fashion-Channel.png" width="120"></div> | <div align="center"><img src="Yas-TV.png" width="120"></div> | <div align="center"><img src="antena1.png" width="120"></div> |
-| <div align="center"><img src="antena1fado.png" width="120"></div> | <div align="center"><img src="antena1memoria.png" width="120"></div> | <div align="center"><img src="antena1vida.png" width="120"></div> | <div align="center"><img src="antena2.png" width="120"></div> | <div align="center"><img src="antena2jazzin.png" width="120"></div> | <div align="center"><img src="antena2opera.png" width="120"></div> |
-| <div align="center"><img src="antena3.png" width="120"></div> | <div align="center"><img src="apple-touch-icon.png" width="120"></div> | <div align="center"><img src="c4XS6cBFdq.png" width="120"></div> | <div align="center"><img src="canal-kuriakos-tv-logo-256x256.png" width="120"></div> | <div align="center"><img src="dizi.png" width="120"></div> | <div align="center"><img src="euronews-logo-225x225.png" width="120"></div> |
-| <div align="center"><img src="fama.radio.png" width="120"></div> | <div align="center"><img src="ggsggrtqba2b.png" width="120"></div> | <div align="center"><img src="hiper_logo_red.png" width="120"></div> | <div align="center"><img src="i24-News.png" width="120"></div> | <div align="center"><img src="logo-BATIDAFM-white.png" width="120"></div> | <div align="center"><img src="logo-radio1.png" width="120"></div> |
-| <div align="center"><img src="logo-smooth-fm_0.png" width="120"></div> | <div align="center"><img src="logo.png" width="120"></div> | <div align="center"><img src="logo2.png" width="120"></div> | <div align="center"><img src="logo_RadioZigZag.png" width="120"></div> | <div align="center"><img src="logo_cn_radio.png" width="120"></div> | <div align="center"><img src="logo_megafm_new.png" width="120"></div> |
-| <div align="center"><img src="logo_rvm-01.png" width="120"></div> | <div align="center"><img src="logod.png" width="120"></div> | <div align="center"><img src="macau_lotus_tv_mo.png" width="120"></div> | <div align="center"><img src="oitentas.png" width="120"></div> | <div align="center"><img src="programa-o-outro-lado-logo-256x256.png" width="120"></div> | <div align="center"><img src="q6clfyhqvcg5.png" width="120"></div> |
-| <div align="center"><img src="radioamalialogo.png" width="120"></div> | <div align="center"><img src="radiolusitania.png" width="120"></div> | <div align="center"><img src="rdpAfrica.png" width="120"></div> | <div align="center"><img src="rdpInternacional.png" width="120"></div> | <div align="center"><img src="rtpnoticias.png" width="120"></div> | <div align="center"><img src="s18720d.png" width="120"></div> |
-| <div align="center"><img src="s25179d.png" width="120"></div> | <div align="center"><img src="s3095d.png" width="120"></div> | <div align="center"><img src="s83943q.png" width="120"></div> | <div align="center"><img src="superfmlogo.png" width="120"></div> | <div align="center"><img src="vmaistvi.png" width="120"></div> | <div align="center"><img src="ybykwjqku6rh.png" width="120"></div> |
+| <div align="center"><img src="Porto-Canal.png" width="120"></div> | <div align="center"><img src="Press-TV.png" width="120"></div> | <div align="center"><img src="RMTV.png" width="120"></div> | <div align="center"><img src="RT-America.png" width="120"></div> | <div align="center"><img src="RT-Documentary.png" width="120"></div> | <div align="center"><img src="RT-Español.png" width="120"></div> |
+| <div align="center"><img src="RT-France.png" width="120"></div> | <div align="center"><img src="RT-News.png" width="120"></div> | <div align="center"><img src="RT-UK.png" width="120"></div> | <div align="center"><img src="RTP-Açores.png" width="120"></div> | <div align="center"><img src="RTP-Internacional.png" width="120"></div> | <div align="center"><img src="RTP-Madeira.png" width="120"></div> |
+| <div align="center"><img src="RTP-Memória.png" width="120"></div> | <div align="center"><img src="RTP-África.png" width="120"></div> | <div align="center"><img src="RTP1.png" width="120"></div> | <div align="center"><img src="RTP2.png" width="120"></div> | <div align="center"><img src="RTP3.png" width="120"></div> | <div align="center"><img src="Radio-Cascais.png" width="120"></div> |
+| <div align="center"><img src="Rai-Movie.png" width="120"></div> | <div align="center"><img src="Rai-News-24.png" width="120"></div> | <div align="center"><img src="Rai-Premium.png" width="120"></div> | <div align="center"><img src="Rakuten_Viki.png" width="120"></div> | <div align="center"><img src="Record-News.png" width="120"></div> | <div align="center"><img src="Record-TV.png" width="120"></div> |
+| <div align="center"><img src="Red-Bull-TV.png" width="120"></div> | <div align="center"><img src="Rede-Atividade.png" width="120"></div> | <div align="center"><img src="Rede-New.png" width="120"></div> | <div align="center"><img src="RedeTV.png" width="120"></div> | <div align="center"><img src="Retro-TV.png" width="120"></div> | <div align="center"><img src="Reuters-TV.png" width="120"></div> |
+| <div align="center"><img src="Rádio-Sines.png" width="120"></div> | <div align="center"><img src="SBT.png" width="120"></div> | <div align="center"><img src="SIC-Alta-Definição.png" width="120"></div> | <div align="center"><img src="SIC-Caras.png" width="120"></div> | <div align="center"><img src="SIC-Internacional.png" width="120"></div> | <div align="center"><img src="SIC-K.png" width="120"></div> |
+| <div align="center"><img src="SIC-Mulher.png" width="120"></div> | <div align="center"><img src="SIC-Notícias.png" width="120"></div> | <div align="center"><img src="SIC-Novelas.png" width="120"></div> | <div align="center"><img src="SIC-Radical.png" width="120"></div> | <div align="center"><img src="SIC-Replay.png" width="120"></div> | <div align="center"><img src="SIC.png" width="120"></div> |
+| <div align="center"><img src="SM.png" width="120"></div> | <div align="center"><img src="STAR-Channel-logo.png" width="120"></div> | <div align="center"><img src="STAR-Comedy-logo.png" width="120"></div> | <div align="center"><img src="STAR-Life-logo.png" width="120"></div> | <div align="center"><img src="STAR-Movies-logo.png" width="120"></div> | <div align="center"><img src="Sabrang-TV.png" width="120"></div> |
+| <div align="center"><img src="Sexy-KPOP-TV.png" width="120"></div> | <div align="center"><img src="Sky-News.png" width="120"></div> | <div align="center"><img src="Sky-TG24.png" width="120"></div> | <div align="center"><img src="Sport-TV+.png" width="120"></div> | <div align="center"><img src="Sport-TV-1.png" width="120"></div> | <div align="center"><img src="Sport-TV-2.png" width="120"></div> |
+| <div align="center"><img src="Sport-TV-3.png" width="120"></div> | <div align="center"><img src="Sport-TV-4.png" width="120"></div> | <div align="center"><img src="Sport-TV-5.png" width="120"></div> | <div align="center"><img src="Sport-TV-6.png" width="120"></div> | <div align="center"><img src="Sport-TV-NBA.png" width="120"></div> | <div align="center"><img src="Sporting-TV.png" width="120"></div> |
+| <div align="center"><img src="SyFy.png" width="120"></div> | <div align="center"><img src="TCV.png" width="120"></div> | <div align="center"><img src="TDM-Teledifusão_de_Macau.png" width="120"></div> | <div align="center"><img src="TLC.png" width="120"></div> | <div align="center"><img src="TPA.png" width="120"></div> | <div align="center"><img src="TRACE-Africa.png" width="120"></div> |
+| <div align="center"><img src="TRACE-Ayiti.png" width="120"></div> | <div align="center"><img src="TRACE-Kitoko.png" width="120"></div> | <div align="center"><img src="TRACE-Latina.png" width="120"></div> | <div align="center"><img src="TRACE-Mziki.png" width="120"></div> | <div align="center"><img src="TRACE-Naija.png" width="120"></div> | <div align="center"><img src="TRACE-Toca.png" width="120"></div> |
+| <div align="center"><img src="TRACE-Tropical.png" width="120"></div> | <div align="center"><img src="TRACE-Urban.png" width="120"></div> | <div align="center"><img src="TV-ALESP.png" width="120"></div> | <div align="center"><img src="TV-Escola.png" width="120"></div> | <div align="center"><img src="TV-Rio-Preto.png" width="120"></div> | <div align="center"><img src="TV-Séries.png" width="120"></div> |
+| <div align="center"><img src="TV-camara.png" width="120"></div> | <div align="center"><img src="TV5-Monde-Info.png" width="120"></div> | <div align="center"><img src="TVCine_ACTION.png" width="120"></div> | <div align="center"><img src="TVCine_EDITION.png" width="120"></div> | <div align="center"><img src="TVCine_EMOTION.png" width="120"></div> | <div align="center"><img src="TVCine_TOP.png" width="120"></div> |
+| <div align="center"><img src="TVE-24h.png" width="120"></div> | <div align="center"><img src="TVE.png" width="120"></div> | <div align="center"><img src="TVG.png" width="120"></div> | <div align="center"><img src="TVI-Ficção.png" width="120"></div> | <div align="center"><img src="TVI-Internacional.png" width="120"></div> | <div align="center"><img src="TVI-Reality.png" width="120"></div> |
+| <div align="center"><img src="TVI.png" width="120"></div> | <div align="center"><img src="TVI24.png" width="120"></div> | <div align="center"><img src="TVI_África.png" width="120"></div> | <div align="center"><img src="TVM.png" width="120"></div> | <div align="center"><img src="TVMI.png" width="120"></div> | <div align="center"><img src="Telesur.png" width="120"></div> |
+| <div align="center"><img src="The-Jimmy-Dore-Show.png" width="120"></div> | <div align="center"><img src="The_Duran.png" width="120"></div> | <div align="center"><img src="Top-TV.png" width="120"></div> | <div align="center"><img src="Trace-Latina.png" width="120"></div> | <div align="center"><img src="Trace_Brasil.png" width="120"></div> | <div align="center"><img src="Travel-Channel.png" width="120"></div> |
+| <div align="center"><img src="VH1-Classic.png" width="120"></div> | <div align="center"><img src="VH1.png" width="120"></div> | <div align="center"><img src="WGN-9.png" width="120"></div> | <div align="center"><img src="WWSB_ABC_7.png" width="120"></div> | <div align="center"><img src="World-Fashion-Channel.png" width="120"></div> | <div align="center"><img src="Yas-TV.png" width="120"></div> |
+| <div align="center"><img src="antena1.png" width="120"></div> | <div align="center"><img src="antena1fado.png" width="120"></div> | <div align="center"><img src="antena1memoria.png" width="120"></div> | <div align="center"><img src="antena1vida.png" width="120"></div> | <div align="center"><img src="antena2.png" width="120"></div> | <div align="center"><img src="antena2jazzin.png" width="120"></div> |
+| <div align="center"><img src="antena2opera.png" width="120"></div> | <div align="center"><img src="antena3.png" width="120"></div> | <div align="center"><img src="apple-touch-icon.png" width="120"></div> | <div align="center"><img src="c4XS6cBFdq.png" width="120"></div> | <div align="center"><img src="canal-kuriakos-tv-logo-256x256.png" width="120"></div> | <div align="center"><img src="dizi.png" width="120"></div> |
+| <div align="center"><img src="euronews-logo-225x225.png" width="120"></div> | <div align="center"><img src="fama.radio.png" width="120"></div> | <div align="center"><img src="ggsggrtqba2b.png" width="120"></div> | <div align="center"><img src="hiper_logo_red.png" width="120"></div> | <div align="center"><img src="i24-News.png" width="120"></div> | <div align="center"><img src="logo-BATIDAFM-white.png" width="120"></div> |
+| <div align="center"><img src="logo-radio1.png" width="120"></div> | <div align="center"><img src="logo-smooth-fm_0.png" width="120"></div> | <div align="center"><img src="logo.png" width="120"></div> | <div align="center"><img src="logo2.png" width="120"></div> | <div align="center"><img src="logo_RadioZigZag.png" width="120"></div> | <div align="center"><img src="logo_cn_radio.png" width="120"></div> |
+| <div align="center"><img src="logo_megafm_new.png" width="120"></div> | <div align="center"><img src="logo_rvm-01.png" width="120"></div> | <div align="center"><img src="logod.png" width="120"></div> | <div align="center"><img src="macau_lotus_tv_mo.png" width="120"></div> | <div align="center"><img src="oitentas.png" width="120"></div> | <div align="center"><img src="programa-o-outro-lado-logo-256x256.png" width="120"></div> |
+| <div align="center"><img src="q6clfyhqvcg5.png" width="120"></div> | <div align="center"><img src="radioamalialogo.png" width="120"></div> | <div align="center"><img src="radiolusitania.png" width="120"></div> | <div align="center"><img src="rdpAfrica.png" width="120"></div> | <div align="center"><img src="rdpInternacional.png" width="120"></div> | <div align="center"><img src="rtpnoticias.png" width="120"></div> |
+| <div align="center"><img src="s18720d.png" width="120"></div> | <div align="center"><img src="s25179d.png" width="120"></div> | <div align="center"><img src="s3095d.png" width="120"></div> | <div align="center"><img src="s83943q.png" width="120"></div> | <div align="center"><img src="superfmlogo.png" width="120"></div> | <div align="center"><img src="vmaistvi.png" width="120"></div> |
+| <div align="center"><img src="ybykwjqku6rh.png" width="120"></div> | <div align="center"><img src="space.png" width="120"></div> | <div align="center"><img src="space.png" width="120"></div> | <div align="center"><img src="space.png" width="120"></div> | <div align="center"><img src="space.png" width="120"></div> | <div align="center"><img src="space.png" width="120"></div> |
 
 
+## PNG
 [1HD]:1HD.png
 [24-Kitchen]:24-Kitchen.png
 [263x196_v1]:263x196_v1.png
@@ -146,7 +146,6 @@
 [Canal-Futura]:Canal-Futura.png
 [Canal-Q]:Canal-Q.png
 [Canal-de-História]:Canal-de-História.png
-[Canal_S+]:Canal_S+.png
 [Cartoon-Network]:Cartoon-Network.png
 [Cartoonito]:Cartoonito.png
 [Cinemonde]:Cinemonde.png
@@ -204,7 +203,6 @@
 [Fox-Movies]:Fox-Movies.png
 [Fox]:Fox.png
 [France-24]:France-24.png
-[Free-Speech-TV]:Free-Speech-TV.png
 [Fuel-TV]:Fuel-TV.png
 [FunBox_UHD]:FunBox_UHD.png
 [GONG-Max]:GONG-Max.png
@@ -231,7 +229,6 @@
 [KuriakosKids_curvas]:KuriakosKids_curvas.png
 [La1]:La1.png
 [La2]:La2.png
-[LiveNOW_from_Fox]:LiveNOW_from_Fox.png
 [Localvisão-TV]:Localvisão-TV.png
 [Locomotion]:Locomotion.png
 [Logo-R%C3%A1dio-Hertz-2015-03-261-300x117]:Logo-R%C3%A1dio-Hertz-2015-03-261-300x117.png
@@ -239,9 +236,7 @@
 [Logo_cine]:Logo_cine.png
 [Love-Nature-TV]:Love-Nature-TV.png
 [Luxe-TV]:Luxe-TV.png
-[MCM-Pop-1]:MCM-Pop-1.png
 [MCM-Pop]:MCM-Pop.png
-[MCM-Top-1]:MCM-Top-1.png
 [MCM-Top]:MCM-Top.png
 [MCS TV]:MCS TV.png
 [MTV-Base]:MTV-Base.png
@@ -263,7 +258,6 @@
 [Más-Chic]:Más-Chic.png
 [NASA]:NASA.png
 [NBC-News-Now]:NBC-News-Now.png
-[NHK-World]:NHK-World.png
 [NOS-Studios]:NOS-Studios.png
 [NRG-91-TV]:NRG-91-TV.png
 [NRJ-Hits-TV]:NRJ-Hits-TV.png
@@ -282,7 +276,6 @@
 [Panda]:Panda.png
 [Porta-dos-Fundos]:Porta-dos-Fundos.png
 [Porto-Canal]:Porto-Canal.png
-[Premiere]:Premiere.png
 [Press-TV]:Press-TV.png
 [RMTV]:RMTV.png
 [RT-America]:RT-America.png
@@ -327,14 +320,12 @@
 [SM]:SM.png
 [STAR-Channel-logo]:STAR-Channel-logo.png
 [STAR-Comedy-logo]:STAR-Comedy-logo.png
-[STAR-Crime-logo]:STAR-Crime-logo.png
 [STAR-Life-logo]:STAR-Life-logo.png
 [STAR-Movies-logo]:STAR-Movies-logo.png
 [Sabrang-TV]:Sabrang-TV.png
 [Sexy-KPOP-TV]:Sexy-KPOP-TV.png
 [Sky-News]:Sky-News.png
 [Sky-TG24]:Sky-TG24.png
-[Sport-Digital]:Sport-Digital.png
 [Sport-TV+]:Sport-TV+.png
 [Sport-TV-1]:Sport-TV-1.png
 [Sport-TV-2]:Sport-TV-2.png
@@ -342,7 +333,6 @@
 [Sport-TV-4]:Sport-TV-4.png
 [Sport-TV-5]:Sport-TV-5.png
 [Sport-TV-6]:Sport-TV-6.png
-[Sport-TV-7]:Sport-TV-7.png
 [Sport-TV-NBA]:Sport-TV-NBA.png
 [Sporting-TV]:Sporting-TV.png
 [SyFy]:SyFy.png
@@ -359,7 +349,6 @@
 [TRACE-Toca]:TRACE-Toca.png
 [TRACE-Tropical]:TRACE-Tropical.png
 [TRACE-Urban]:TRACE-Urban.png
-[TRT_World]:TRT_World.png
 [TV-ALESP]:TV-ALESP.png
 [TV-Escola]:TV-Escola.png
 [TV-Rio-Preto]:TV-Rio-Preto.png
@@ -437,4 +426,53 @@
 [superfmlogo]:superfmlogo.png
 [vmaistvi]:vmaistvi.png
 [ybykwjqku6rh]:ybykwjqku6rh.png
+
+## WEBP
+[AXN_MOVIES]:AXN_MOVIES.webp
+[ESPN_Brasil]:ESPN_Brasil.webp
+[Free-Speech-TV]:Free-Speech-TV.webp
+[LiveNOW_from_Fox]:LiveNOW_from_Fox.webp
+[Mezzo-Live]:Mezzo-Live.webp
+[Now]:Now.webp
+[Panda-Kids]:Panda-Kids.webp
+[Premiere]:Premiere.webp
+[STAR-Crime-logo]:STAR-Crime-logo.webp
+[SporTV]:SporTV.webp
+
+## JPG
+[CBTV-Internacional]:CBTV-Internacional.jpg
+[Circulatura-do-quadrado]:Circulatura-do-quadrado.jpg
+[Danny_Haiphong]:Danny_Haiphong.jpg
+[DiogoBataguas]:DiogoBataguas.jpg
+[EstudoEmCasa]:EstudoEmCasa.jpg
+[Geopolitical_Economy_Report]:Geopolitical_Economy_Report.jpg
+[Governo-Sombra]:Governo-Sombra.jpg
+[IEGCQT]:IEGCQT.jpg
+[Lee_Camp]:Lee_Camp.jpg
+[MCA]:MCA.jpg
+[ORF]:ORF.jpg
+[Russell_Brand]:Russell_Brand.jpg
+[Rádio-Clube-TV]:Rádio-Clube-TV.jpg
+[STV]:STV.jpg
+[TheDive]:TheDive.jpg
+[TheNewAtlas]:TheNewAtlas.jpg
+[bompartido]:bompartido.jpg
+
+## SVG
+[C_More_Mix]:C_More_Mix.svg
+[Canal_S+]:Canal_S+.svg
+[Casa_e_Cozinha]:Casa_e_Cozinha.svg
+[Eleven_Sports_2]:Eleven_Sports_2.svg
+[Eleven_Sports_3]:Eleven_Sports_3.svg
+[Eleven_Sports_4]:Eleven_Sports_4.svg
+[FightBox]:FightBox.svg
+[Fight_Network]:Fight_Network.svg
+[Gol_TV]:Gol_TV.svg
+[MCM-Pop-1]:MCM-Pop-1.svg
+[MCM-Top-1]:MCM-Top-1.svg
+[NHK-World]:NHK-World.svg
+[RMC_Sport_1]:RMC_Sport_1.svg
+[Sport-Digital]:Sport-Digital.svg
+[Sport-TV-7]:Sport-TV-7.svg
+[TRT_World]:TRT_World.svg
 
