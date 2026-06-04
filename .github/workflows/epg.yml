@@ -1,3 +1,6 @@
+# Based on the original M3UPT project by LITUATUI.
+# See: https://github.com/LITUATUI/M3UPT
+
 name: Update EPG
 on:
   schedule:
