@@ -34,9 +34,6 @@ cd ../EPG
 gzip -k -f -9 epg*.xml
 
 # Remove EPG xml files
-rm epg*.xml
-
-# Remover ficheiros xz antigos
-rm -f ../EPG/epg*.xml.xz
+rm -f epg*.xml epg*.xml.xz
 
 exit 0
