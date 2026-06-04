@@ -2,7 +2,8 @@ name: Update EPG
 on:
   schedule:
     - cron: "30 0 */2 * *"
-
+  workflow_dispatch:
+  
 jobs:
   Update-EPG:
     runs-on: ubuntu-latest
