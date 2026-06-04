@@ -1,3 +1,6 @@
+# Based on the original M3UPT project by LITUATUI.
+# See: https://github.com/LITUATUI/M3UPT
+
 #!/bin/bash
 
 cd /home/runner/work/M3UPT/M3UPT/iptv-org-epg && npm install
