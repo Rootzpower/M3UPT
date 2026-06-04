@@ -40,8 +40,8 @@ function organizeContent(array $logos, string $source): array
         $filename = basename($file);
         $ext = strtolower(pathinfo($filename, PATHINFO_EXTENSION));
 
-        // Apenas imagens suportadas
-        if (in_array($ext, ['png'])) {
+        // Apenas PNG para o mosaico
+        if ($ext === 'png') {
             $key = preg_replace('/\.png$/i', '', $filename);
             $output['logos'][$key] = $filename;
         }
@@ -70,14 +70,19 @@ function createMDFiles(array $logos, string $source): void
             $i++;
         }
 
-        // Construir mosaico
+        // Construir mosaico com fundo xadrez
         for ($j = 0; $j < count($matrix); $j++) {
             for ($i = 0; $i < $settings['cols']; $i++) {
                 $logo = $matrix[$j][$i] ?? "space";
 
-                $table .= '| <div align="center" style="background:#adacac; padding:10px; border-radius:8px;">'
-                        . '<img src="' . $logo . '.png" width="120">'
-                        . '</div> ';
+                $table .= '| <div align="center" style="
+                    background: repeating-conic-gradient(#e6e6e6 0% 25%, #ffffff 0% 50%);
+                    background-size: 20px 20px;
+                    padding:10px;
+                    border-radius:8px;
+                ">
+                    <img src="' . $logo . '.png" width="120">
+                </div> ';
 
                 if ($i === $settings['cols'] - 1) {
                     $table .= "|\n";
