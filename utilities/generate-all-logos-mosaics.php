@@ -6,12 +6,20 @@ if (PHP_SAPI !== 'cli') {
     die("This script must be ran from the command line.");
 }
 
+if (!extension_loaded('gd')) {
+    die("GD extension is required.\n");
+}
+
 $settings = array(
     'countriesFolders' => array(
         __DIR__ . '/../logos',
     ),
-    'outputFilename' => '0_all_logos_mosaic.md',
+    'outputFilename' => '0_all_logos_mosaic.png',
     'cols' => 6,
+    'logoSize'   => 120,
+    'padding'    => 12,
+    'bgColor'    => [30, 30, 30],   // fundo de cada célula (cinzento escuro)
+    'canvasBg'   => [18, 18, 18],   // fundo geral do mosaico
 );
 
 function listAllFiles(string $dir): array
@@ -32,7 +40,7 @@ function listAllFiles(string $dir): array
     return $array;
 }
 
-function organizeContent(array $logos, string $source): array
+function organizeContent(array $logos): array
 {
     $output = array();
 
@@ -40,64 +48,89 @@ function organizeContent(array $logos, string $source): array
         $filename = basename($file);
         $ext = strtolower(pathinfo($filename, PATHINFO_EXTENSION));
 
-        // Apenas imagens suportadas
-        if (in_array($ext, ['png'])) {
+        if ($ext === 'png') {
             $key = preg_replace('/\.png$/i', '', $filename);
-            $output['logos'][$key] = $filename;
+            $output[$key] = $file; // caminho completo
         }
     }
+
+    ksort($output);
 
     return $output;
 }
 
-function createMDFiles(array $logos, string $source): void
+function generateMosaicPNG(array $logos, string $outputPath): void
 {
     global $settings;
 
-    foreach ($logos as $files) {
-        $outputFile = $source . DIRECTORY_SEPARATOR . $settings['outputFilename'];
+    $cols     = $settings['cols'];
+    $size     = $settings['logoSize'];
+    $pad      = $settings['padding'];
+    $bgColor  = $settings['bgColor'];
+    $canvasBg = $settings['canvasBg'];
 
-        echo "Generating $outputFile\n";
+    $cellSize = $size + $pad * 2;
+    $rows     = (int) ceil(count($logos) / $cols);
+    $width    = $cols * $cellSize;
+    $height   = $rows * $cellSize;
 
-        $outputContent = "# Logos\n\n";
+    $canvas = imagecreatetruecolor($width, $height);
+    $bgFill = imagecolorallocate($canvas, $canvasBg[0], $canvasBg[1], $canvasBg[2]);
+    imagefill($canvas, 0, 0, $bgFill);
 
-        $table = "";
-        $matrix = array();
-        $i = 0;
+    $cellBg = imagecolorallocate($canvas, $bgColor[0], $bgColor[1], $bgColor[2]);
 
-        foreach ($files as $fileKey => $file) {
-            $matrix[intdiv($i, $settings['cols'])][] = $fileKey;
-            $i++;
+    $files = array_values($logos);
+    $total = count($files);
+
+    for ($i = 0; $i < $total; $i++) {
+        $col = $i % $cols;
+        $row = intdiv($i, $cols);
+
+        $x = $col * $cellSize;
+        $y = $row * $cellSize;
+
+        // Fundo da célula
+        imagefilledrectangle($canvas, $x, $y, $x + $cellSize - 1, $y + $cellSize - 1, $cellBg);
+
+        // Carregar logo
+        $logoPath = $files[$i];
+        $logo = @imagecreatefrompng($logoPath);
+
+        if ($logo === false) {
+            continue;
         }
 
-        // Construir mosaico
-        for ($j = 0; $j < count($matrix); $j++) {
-            for ($i = 0; $i < $settings['cols']; $i++) {
-                $logo = $matrix[$j][$i] ?? "space";
+        // Redimensionar mantendo proporção
+        $origW = imagesx($logo);
+        $origH = imagesy($logo);
 
-                $table .= '| <div align="center" style="background:#756f6f; padding:10px; border-radius:8px;">'
-                        . '<img src="' . $logo . '.png" width="120">'
-                        . '</div> ';
+        $scale = min($size / $origW, $size / $origH);
+        $newW  = (int) round($origW * $scale);
+        $newH  = (int) round($origH * $scale);
 
-                if ($i === $settings['cols'] - 1) {
-                    $table .= "|\n";
-                }
-            }
+        $resized = imagecreatetruecolor($newW, $newH);
+        imagealphablending($resized, false);
+        imagesavealpha($resized, true);
+        $transparent = imagecolorallocatealpha($resized, 0, 0, 0, 127);
+        imagefill($resized, 0, 0, $transparent);
 
-            if ($j === 0) {
-                for ($i = 0; $i < $settings['cols']; $i++) {
-                    $table .= "|:---:";
-                    if ($i === $settings['cols'] - 1) {
-                        $table .= "|\n";
-                    }
-                }
-            }
-        }
+        imagecopyresampled($resized, $logo, 0, 0, 0, 0, $newW, $newH, $origW, $origH);
 
-        $outputContent .= "$table\n";
+        // Centrar na célula
+        $destX = $x + $pad + intdiv($size - $newW, 2);
+        $destY = $y + $pad + intdiv($size - $newH, 2);
 
-        file_put_contents($outputFile, $outputContent);
+        imagecopy($canvas, $resized, $destX, $destY, 0, 0, $newW, $newH);
+
+        imagedestroy($logo);
+        imagedestroy($resized);
     }
+
+    imagepng($canvas, $outputPath, 6);
+    imagedestroy($canvas);
+
+    echo "Generated: $outputPath (" . count($files) . " logos, $rows rows)\n";
 }
 
 function generateAllLogosMosaics(): void
@@ -105,9 +138,10 @@ function generateAllLogosMosaics(): void
     global $settings;
 
     foreach ($settings['countriesFolders'] as $source) {
-        $logos = listAllFiles($source);
-        $logos = organizeContent($logos, $source);
-        createMDFiles($logos, $source);
+        $allFiles = listAllFiles($source);
+        $logos    = organizeContent($allFiles);
+        $output   = $source . DIRECTORY_SEPARATOR . $settings['outputFilename'];
+        generateMosaicPNG($logos, $output);
     }
 }
 
