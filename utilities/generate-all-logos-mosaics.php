@@ -75,7 +75,7 @@ function createMDFiles(array $logos, string $source): void
             for ($i = 0; $i < $settings['cols']; $i++) {
                 $logo = $matrix[$j][$i] ?? "space";
 
-                $table .= '| <div align="center" style="background:#f0f0f0; padding:10px; border-radius:8px;">'
+                $table .= '| <div align="center" style="background:#756f6f; padding:10px; border-radius:8px;">'
                         . '<img src="' . $logo . '.png" width="120">'
                         . '</div> ';
 
