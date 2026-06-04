@@ -40,8 +40,9 @@ function organizeContent(array $logos, string $source): array
         $filename = basename($file);
         $ext = strtolower(pathinfo($filename, PATHINFO_EXTENSION));
 
-        if (in_array($ext, ['png', 'jpg', 'jpeg', 'webp', 'svg', 'gif'])) {
-            $key = preg_replace('/\.' . $ext . '$/i', '', $filename);
+        // Apenas imagens suportadas
+        if (in_array($ext, ['png'])) {
+            $key = preg_replace('/\.png$/i', '', $filename);
             $output['logos'][$key] = $filename;
         }
     }
@@ -62,29 +63,22 @@ function createMDFiles(array $logos, string $source): void
 
         $table = "";
         $matrix = array();
-        $lists = [];
         $i = 0;
 
         foreach ($files as $fileKey => $file) {
-            $ext = strtolower(pathinfo($file, PATHINFO_EXTENSION));
-
-            // PNG goes to the mosaic
-            if ($ext === 'png') {
-                $matrix[intdiv($i, $settings['cols'])][] = $fileKey;
-                $i++;
-            }
-
-            // Only non-PNG files go to lists
-            if ($ext !== 'png') {
-                $lists[$ext][] = "[$fileKey]:$file";
-            }
+            $matrix[intdiv($i, $settings['cols'])][] = $fileKey;
+            $i++;
         }
 
-        // Build mosaic table (PNG only)
+        // Construir mosaico
         for ($j = 0; $j < count($matrix); $j++) {
             for ($i = 0; $i < $settings['cols']; $i++) {
                 $logo = $matrix[$j][$i] ?? "space";
-                $table .= '| <div align="center"><img src="' . $logo . '.png" width="120"></div> ';
+
+                $table .= '| <div align="center" style="background:#f0f0f0; padding:10px; border-radius:8px;">'
+                        . '<img src="' . $logo . '.png" width="120">'
+                        . '</div> ';
+
                 if ($i === $settings['cols'] - 1) {
                     $table .= "|\n";
                 }
@@ -100,18 +94,7 @@ function createMDFiles(array $logos, string $source): void
             }
         }
 
-        $outputContent .= "$table\n\n";
-
-        // Add extension sections (ONLY if non-PNG exist)
-        if (!empty($lists)) {
-            foreach ($lists as $ext => $entries) {
-                $outputContent .= "## " . strtoupper($ext) . "\n";
-                foreach ($entries as $entry) {
-                    $outputContent .= $entry . "\n";
-                }
-                $outputContent .= "\n";
-            }
-        }
+        $outputContent .= "$table\n";
 
         file_put_contents($outputFile, $outputContent);
     }
