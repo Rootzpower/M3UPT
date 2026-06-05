@@ -1,9 +1,6 @@
 # Generate All Logos Mosaic
 # Based on the original script from the tv-logos project.
 # See: https://github.com/tv-logo/tv-logos
-#
-# Adapted by Rootzpower for use in the M3UPT project.
-# See: https://github.com/Rootzpower/M3UPT
 
 name: Generate Logo Mosaics
 
@@ -29,8 +26,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "🤖 R2-D2"
+          git config user.email "r2d2@rebel-alliance.com"
           git add -A
           git diff --staged --quiet || git commit -m "chore: regenerate logo mosaics"
           git push
