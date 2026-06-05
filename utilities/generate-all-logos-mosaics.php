@@ -1,9 +1,8 @@
 <?php
-
-/**
- * Based on the original script from the tv-logos project.
- * @see https://github.com/tv-logo/tv-logos
- */
+/*
+Based on the original script from the tv-logos project.
+@see https://github.com/tv-logo/tv-logos
+*/ 
 
 error_reporting(E_ALL);
 
