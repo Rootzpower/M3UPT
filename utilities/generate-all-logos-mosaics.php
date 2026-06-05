@@ -1,13 +1,8 @@
 <?php
 
 /**
- * Generate All Logos Mosaic
- *
  * Based on the original script from the tv-logos project.
  * @see https://github.com/tv-logo/tv-logos
- *
- * Adapted by Rootzpower for use in the M3UPT project.
- * @see https://github.com/Rootzpower/M3UPT
  */
 
 error_reporting(E_ALL);
