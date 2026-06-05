@@ -27,7 +27,7 @@ jobs:
       - name: setup git config
         run: |
           git config user.name "🤖 R2-D2"
-          git config user.email "<>"
+          git config user.email "r2d2@rebel-alliance.com"
 
       - name: commit
         run: |
